@@ -1,6 +1,6 @@
 {
   "name": "@tssuite/is-ready",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wait for things to become ready",
   "homepage": "https://github.com/tssuite/is-ready",
   "bugs": "https://github.com/tssuite/is-ready/issues",

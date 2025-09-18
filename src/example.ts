@@ -4,7 +4,7 @@
 // Use of this source code is governed by terms that can be
 // found in the LICENSE file in the root of this package.
 
-import { TemplateProject } from './template-project.ts';
+import { IsReady } from './is-ready.ts';
 
 export const example = () => {
   // Print methods
@@ -14,9 +14,9 @@ export const example = () => {
   const p = (text: string) => l(`    ${text}`);
 
   // Example
-  h1('TemplateProject.example');
-  h2('Returns an instance of the TemplateProject.');
-  const example = TemplateProject.example;
+  h1('IsReady.example');
+  h2('Returns an instance of the IsReady.');
+  const example = IsReady.example;
   p(JSON.stringify(example, null, 2));
 };
 

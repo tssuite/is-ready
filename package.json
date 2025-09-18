@@ -1,9 +1,9 @@
 {
-  "name": "@tssuite/template-project",
-  "version": "0.0.17",
-  "description": "tssuite template-project description",
-  "homepage": "https://github.com/tssuite/template-project",
-  "bugs": "https://github.com/tssuite/template-project/issues",
+  "name": "@tssuite/is-ready",
+  "version": "0.0.1",
+  "description": "Wait for things to become ready",
+  "homepage": "https://github.com/tssuite/is-ready",
+  "bugs": "https://github.com/tssuite/is-ready/issues",
   "private": false,
   "license": "MIT",
   "engines": {
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tssuite/template-project.git"
+    "url": "git+https://github.com/tssuite/is-ready.git"
   },
-  "main": "dist/template-project.js",
+  "main": "dist/is-ready.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"

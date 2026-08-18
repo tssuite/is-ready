@@ -11,6 +11,7 @@ on:
 jobs:
   build:
     name: Quick Check
+
     runs-on: ubuntu-latest
 
     strategy:
